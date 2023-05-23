@@ -1,0 +1,2 @@
+# nuxt-toy
+nuxt toy
