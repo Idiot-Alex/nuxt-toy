@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxt/devtools',
+    '@nuxthq/ui'
   ],
   devtools: {
     enabled: true
