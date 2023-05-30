@@ -12,5 +12,6 @@
     <UCard>
       Body
     </UCard>
+    <NuxtPage />
   </div>
 </template>
