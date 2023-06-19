@@ -35,7 +35,7 @@ const elements = ref([
         <Controls />
       </VueFlow>
     </UCard>
-    <!-- <NuxtPage /> -->
+    <NuxtPage />
   </div>
 </template>
 
